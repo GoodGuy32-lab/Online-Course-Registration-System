@@ -33,7 +33,7 @@ peserta: Stores user/student profiles and credentials.
 pendaftaran: A junction table managing the Many-to-Many relationship between students and courses, including payment status.
 
 Installation & Setup
-Clone the repository: git clone https://github.com/yourusername/OnlineCourseSystem.git
+Clone the repository: git clone https://github.com/GoodGuy32-lab/Online-Course-Registration-System.git
 
 Database Setup: Import the provided db_kursus_online.sql into your MySQL server.
 
