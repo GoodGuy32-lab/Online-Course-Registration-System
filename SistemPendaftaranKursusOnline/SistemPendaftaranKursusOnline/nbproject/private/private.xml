@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/kursus/list.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/kursus/form.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/kursus/view.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/pendaftaran/list.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/pendaftaran/form.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/pendaftaran/view.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/peserta/list.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/peserta/form.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/view/peserta/view.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/index.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/dashboard.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/model/Peserta.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/model/Kursus.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/model/Pendaftaran.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/dao/DatabaseConnection.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/dao/PesertaDAO.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/logout.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/web/test-db.jsp</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/dao/KursusDAO.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/dao/PendaftaranDAO.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/controller/PesertaServlet.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/controller/KursusServlet.java</file>
+            <file>file:/C:/Users/FJ/Documents/NetBeansProjects/SistemPendaftaranKursusOnline/src/java/controller/PendaftaranServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
